@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891473586253",
+    "project_id": "webuniprojects",
+    "storage_bucket": "webuniprojects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891473586253:android:5965daa630e13683f19404",
+        "android_client_info": {
+          "package_name": "hu.nagyi.sixthweekwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891473586253-6jruhkgkkgegrm2h598tv4pfgbjj78k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDwb4SwqmJqtecQv3iissXAqidBjodgxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891473586253-6jruhkgkkgegrm2h598tv4pfgbjj78k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
